@@ -1,5 +1,7 @@
-## Hi there 👋
-pppp
+## 이름: 고지원
+## 좋아하는 음식: 돈카츠, 마라탕, 김치찌개
+가리는게 없을 정도로 다 잘먹는 편
+
 
 <!--
 **kojiglith/kojiglith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
