@@ -1,8 +1,8 @@
 ## 이름: 고지원
 ## 좋아하는 음식: 돈카츠, 마라탕, 김치찌개
 가리는게 없을 정도로 다 잘먹는 편
-
-
+<img src="https://img.shields.io/badge/python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
+![header](https://capsule-render.vercel.app/api?type=egg&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 <!--
 **kojiglith/kojiglith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
